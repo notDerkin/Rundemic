@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  Rundemic
+
+  Created by Raffaele Siciliano on 24/02/22.
+  
+*/
+
+// "english" = "italian"
+// "key" = "value";
+
+"start" = "gioca";
+"soundLabel" = "suonoLabel";
+"musicLabel" = "musicaLabel";
+"credits" = "crediti";
+"exitlevel" = "escibutton";
+"retrylevel" = "riprovabutton";
+"settingsGame" = "opzionibutton";
+"exit" = "uscire";
+"yes" = "si";
+"no" = "no";
+"restartbutton" = "ristartabutton";
+"Your Score" = "Punteggio Partita";
+"Best Score" = "Miglior Punteggio";
+"resumeButton" = "riprendiButton";
+"confirm" = "conferma";
+"Tap the civilians to save them" = "Tocca i civili per salvarli";
+"if the civilian reach the crowd" = "se i civili toccano la folla";
+"they will become infected" = "verranno infettati";
+"pick up the potion" = "raccogli le pozioni";
+"and heal the infected" = "e cura gli infetti";
+"now it's time to" = "ora è il momento di";
+"run" = "correre";
+"sometimes an infected will appear" = "a volte apparirà un infetto";
+"avoid it and don't touch it!" = "evitalo e non toccarlo!";
+
+//size(s)
+"114" = "171";
+"154" = "163";
+"130" = "160";
